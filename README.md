@@ -1,1 +1,4 @@
-# Projetos feitos durante o curso de HTML e CSS do curso em video
+# html-css
+Curso do HTML5 e CSS3 do Cursomemvideo
+
+Estou aprendendo a criar sites e agora vou gerencias repositórios!
