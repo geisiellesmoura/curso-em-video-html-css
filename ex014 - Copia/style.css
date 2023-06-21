@@ -1,0 +1,13 @@
+@charset "UFT-8";
+
+body{
+  background-color: rgb(213, 238, 144);
+}
+h1 {
+  color:rgb(59, 29, 5);
+  background-color: rgb(255, 236, 127);
+
+}
+h2{
+  color: brown;
+}
